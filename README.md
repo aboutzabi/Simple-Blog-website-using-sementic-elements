@@ -1,4 +1,4 @@
-# Simple-Blog-website-using-sementic-elements
+# sementic-elements
 A simple way to learn semantic element with a simple web project
 
 # Semantic Elements in a Professional SEO Website
